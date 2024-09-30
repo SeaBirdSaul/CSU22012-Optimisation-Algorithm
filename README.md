@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/RFySNB_D)
+This is a genetic algorithm project for CSU22012
+It reads in a .csv file and calculates the best possible solution based off the information in said file. 
+It uses a genetic algorithm that worked off the top results of the previous itterations to create the best possible results
